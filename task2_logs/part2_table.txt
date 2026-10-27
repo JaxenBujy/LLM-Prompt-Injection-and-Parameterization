@@ -1,0 +1,6 @@
+Configuration              ASR
+------------------------------
+(a) No Defense             70%
+(b) Defense A              20%
+(c) Defense B               0%
+(d) Adaptive Bypass        60%
